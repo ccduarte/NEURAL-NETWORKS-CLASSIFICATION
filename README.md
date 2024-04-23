@@ -1,4 +1,4 @@
-Deep Learning - Processamento de Redes Reurais
+Deep Learning - Redes Reurais Artificiais
 ==============================
 
 Esse projeto tem como objetivo fazer a classificação de tendencia de compra e venda, de 4 de ações reais usando Redes Neurais Recorrentes (RNN) ou Redes Neurais Convolucionais (CNN) e faz parte do projeto integrado da disciplina de Deep Learning do curso MBA Data Science & Artificial Intelligence da FIAP. 
