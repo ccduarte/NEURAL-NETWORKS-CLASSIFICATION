@@ -1,6 +1,3 @@
-# local package
--e .
-
 # external requirements
 pandas == 2.2.2
 ipykernel == 6.29.3
